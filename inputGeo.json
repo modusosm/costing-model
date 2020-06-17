@@ -1,0 +1,41 @@
+[
+  {
+    floor: 0,
+    area:  100,
+    units: {
+      studio: 3,
+      1bed: 5,
+      2bed: 4,
+      3bed: 0,
+      4bed: 0,
+      bathpod: 16,
+      kitchen: 12,
+    }
+  },
+  {
+    floor: 1,
+    area:  100,
+    units: {
+      studio: 3,
+      1bed: 5,
+      2bed: 4,
+      3bed: 0,
+      4bed: 0,
+      bathpod: 16,
+      kitchen: 12,
+    }
+  },
+  {
+    floor: 2,
+    area:  100,
+    units: {
+      studio: 3,
+      1bed: 5,
+      2bed: 4,
+      3bed: 0,
+      4bed: 0,
+      bathpod: 16,
+      kitchen: 12,
+    }
+  },
+]
